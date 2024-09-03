@@ -1,0 +1,60 @@
+
+ :root{
+    --background-color-gray:#f7f8f9;
+    --background-color-orange: #f05638;
+    --background-color-blue:#38d5f4;
+    --background-color-light-green:#93b6b7;
+    --background-color-purble: #8f76bc;
+    --background-color-blackgray:#2c2c2c;
+    --button-bacground-yellow:#ffc80a;
+    --button-bacground-green: #7ac424;
+
+ }
+/* */
+
+.containr{
+
+}
+
+.items-containr{
+    display: grid;
+list-style: none;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto auto auto;
+
+
+}
+
+.image-1{
+    background-color: var(--background-color-gray);
+
+}
+.image-2{
+
+}
+.image-3{
+
+}
+.image-4{
+
+}
+.image-5{
+    background-color: var(--background-color-purble);
+
+}
+.image-6{
+background-color: var(--background-color-blue);
+}
+.image-7{
+
+}
+.image-8{
+background-color: var(--background-color-light-green);
+}
+.image-9{
+
+}
+.image-10{
+background-color: var(--background-color-blackgray);
+}
+
